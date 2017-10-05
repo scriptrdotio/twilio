@@ -1,0 +1,10 @@
+/*
+ * Twilio account credentialss
+ */
+var accountSID = "<TWILIO_ACCOUNT_SID>";
+var authToken = "<TWILIO_ACCOUNT_TOKEN>";
+
+/*
+ * Twilio "from" phone number 
+ */
+var from = "<TWILIO_REGISTERED_MOBILE_NUMBER>";
